@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://cyanhead.github.io/my-team-page-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Cyanhead/my-team-page-master">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Cyanhead/newRepo/blob/master/Screenshot.png)
+![screenshot](https://github.com/Cyanhead/my-team-page-master/blob/master/Screenshot.png)
 
 I created a responsive page for a product team, following a design from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 You can find links to the demo, as well as to the code, at the top.
@@ -60,4 +60,5 @@ As i mentioned earlier, i used [CSS Grid](https://www.w3schools.com/css/css_grid
 
 - GitHub [@Cyanhead](https://github.com/Cyanhead)
 - Twitter [@Cyanhead](https://twitter.com/Cyanhead)
+
 # my-team-page-master
