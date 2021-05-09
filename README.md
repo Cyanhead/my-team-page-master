@@ -38,6 +38,7 @@
 
 I created a responsive page for a product team, following a design from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 You can find links to the demo, as well as to the code, at the top.
+
 Working on this was a bit challenging and annoying, but a great experience overall. I used CSS grid and flex, so it helped me understand CSS grid better.
 My advice? CSS Grid is really great, check it out.
 
@@ -54,7 +55,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-As i mentioned earlier, i used [CSS Grid](https://www.w3schools.com/css/css_grid.asp) to achieve the table-like look. Then using media queries, i just changed the order, following the design.
+As i mentioned earlier, i used [CSS Grid](https://www.w3schools.com/css/css_grid.asp) to achieve the table-like look. Then using [media queries](https://www.w3schools.com/css/css3_mediaqueries.asp), i just changed the order, following the design.
 
 ## Contact
 
