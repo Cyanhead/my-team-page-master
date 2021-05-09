@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Cyanhead/my-team-page-master/blob/master/Screenshot.png)
+![screenshot](https://github.com/Cyanhead/my-team-page-master/blob/master/Img/Screenshot.png)
 
 I created a responsive page for a product team, following a design from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 You can find links to the demo, as well as to the code, at the top.
